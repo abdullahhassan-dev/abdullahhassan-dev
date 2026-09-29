@@ -98,9 +98,12 @@ I'm a Software Engineer moving into **Cloud & Data Engineering**. I have 1+ year
 
 ## 📊 GitHub Stats
 
+**Principles I follow:** medallion layering · data quality checks at every stage · automation over manual loads · version-controlled, containerized, reproducible.
+ 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullahhassan-dev&show_icons=true&hide_border=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahhassan-dev&layout=compact&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/abdullahhassan-dev?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/abdullahhassan-dev?style=for-the-badge&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/languages/top/abdullahhassan-dev/s3-lambda-snowflake-automation?style=for-the-badge&label=Top%20Language" />
 </p>
 
 ---
